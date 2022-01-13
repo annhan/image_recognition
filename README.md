@@ -5,4 +5,4 @@ Test opencv
 	- X, Y, angle of objects
 	- Take a background picture when init
 	
-	- use ```toRedis``` to stream image to other Gui
+	- use ```toRedis``` to stream image to other Guis
